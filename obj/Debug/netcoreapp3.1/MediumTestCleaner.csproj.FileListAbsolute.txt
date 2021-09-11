@@ -1,0 +1,13 @@
+C:\Users\ccoffman\source\repos\MediumTestCleaner\bin\Debug\netcoreapp3.1\MediumTestCleaner.exe
+C:\Users\ccoffman\source\repos\MediumTestCleaner\bin\Debug\netcoreapp3.1\MediumTestCleaner.deps.json
+C:\Users\ccoffman\source\repos\MediumTestCleaner\bin\Debug\netcoreapp3.1\MediumTestCleaner.runtimeconfig.json
+C:\Users\ccoffman\source\repos\MediumTestCleaner\bin\Debug\netcoreapp3.1\MediumTestCleaner.runtimeconfig.dev.json
+C:\Users\ccoffman\source\repos\MediumTestCleaner\bin\Debug\netcoreapp3.1\MediumTestCleaner.dll
+C:\Users\ccoffman\source\repos\MediumTestCleaner\bin\Debug\netcoreapp3.1\MediumTestCleaner.pdb
+C:\Users\ccoffman\source\repos\MediumTestCleaner\obj\Debug\netcoreapp3.1\MediumTestCleaner.csprojAssemblyReference.cache
+C:\Users\ccoffman\source\repos\MediumTestCleaner\obj\Debug\netcoreapp3.1\MediumTestCleaner.AssemblyInfoInputs.cache
+C:\Users\ccoffman\source\repos\MediumTestCleaner\obj\Debug\netcoreapp3.1\MediumTestCleaner.AssemblyInfo.cs
+C:\Users\ccoffman\source\repos\MediumTestCleaner\obj\Debug\netcoreapp3.1\MediumTestCleaner.csproj.CoreCompileInputs.cache
+C:\Users\ccoffman\source\repos\MediumTestCleaner\obj\Debug\netcoreapp3.1\MediumTestCleaner.dll
+C:\Users\ccoffman\source\repos\MediumTestCleaner\obj\Debug\netcoreapp3.1\MediumTestCleaner.pdb
+C:\Users\ccoffman\source\repos\MediumTestCleaner\obj\Debug\netcoreapp3.1\MediumTestCleaner.genruntimeconfig.cache
