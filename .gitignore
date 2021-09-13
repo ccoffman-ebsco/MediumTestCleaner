@@ -1,2 +1,4 @@
 ﻿/.vs/slnx.sqlite/*
 /.obj/*
+/.vs/slnx.sqlite
+/obj
